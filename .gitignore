@@ -1,0 +1,40 @@
+```
+# Dependencies
+node_modules/
+
+# Build outputs
+.next/
+dist/
+build/
+out/
+
+# Environment variables
+.env.local
+.env.production
+.env.development
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# TypeScript/Next.js
+*.tsbuildinfo
+.next/cache/
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+```
